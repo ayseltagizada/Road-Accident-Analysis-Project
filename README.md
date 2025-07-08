@@ -19,3 +19,4 @@ This project is a practice-based Excel dashboard created to analyze and visualiz
   - Data cleaning and transformation
   - Custom formatting and layout design
 
+Click here to download the Excel file https://docs.google.com/spreadsheets/d/1qsW5BJuqxiaGcOosKI-zh0ilYUG82nAf/edit?usp=sharing&ouid=118369020691468329764&rtpof=true&sd=true
